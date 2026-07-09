@@ -28,7 +28,4 @@ Pure HTML5 and CSS3. No JavaScript. No build step. No framework.
 
 ## Safety
 
-Never put secrets in this file. No API keys, passwords, or AWS credentials."
-
-
-All external links (courses, social media, consulting) point to Pravin Mishra's properties — future instances customizing this for students should systematically replace these.
+Never put secrets in this file. No API keys, passwords, or AWS credent
