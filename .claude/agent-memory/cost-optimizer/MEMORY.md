@@ -1,0 +1,2 @@
+- [CloudFront Price Class Optimization](cloudfront-pricing-optimization.md) — PriceClass_200 → PriceClass_100 saves 25% on data transfer costs ($50-75/month)
+- [S3 Storage Class Optimization](s3-storage-optimization.md) — Add Intelligent-Tiering for future-proofing (minimal current impact)

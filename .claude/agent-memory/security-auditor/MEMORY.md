@@ -1,0 +1,2 @@
+- [Portfolio site Terraform baseline (2026-07-10)](portfolio_terraform_baseline.md) — current good practices + open gaps in terraform/ so re-audits don't re-flag fixed items or miss known gaps
+- [Repo has no IAM/OIDC resources yet](no_iam_oidc_resources.md) — IAM/OIDC checklist items are N/A until such .tf files are added; check before flagging
